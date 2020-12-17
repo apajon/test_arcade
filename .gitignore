@@ -1,0 +1,11 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*save_figure*
+untitled*
+*.zip
+~*
+*.XSN
+xp_pulse_all_seuil copie
